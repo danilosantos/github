@@ -18,4 +18,8 @@ uma nova linha agora com o github ligado com o git local da minha máquina
 
 teste de alteração de arquivo - anotações de xpto
 
-agora quero ver no github 
+agora quero ver no github
+
+um novo commit consoilidando conhecimento
+
+um novo teste consolidando o conhecimento 2  
