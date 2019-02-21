@@ -11,4 +11,7 @@ apenas teste de alteração de arquivo
 
 uma nova mensagem para vermos a diferença
 
-aprendendo git de maneira prática 
+aprendendo git de maneira prática
+
+
+uma nova linha agora com o github ligado com o git local da minha máquina 
