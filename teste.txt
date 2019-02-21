@@ -9,4 +9,6 @@ este é um arquivo teste para relembrar git
 
 apenas teste de alteração de arquivo
 
-uma nova mensagem para vermos a diferença 
+uma nova mensagem para vermos a diferença
+
+aprendendo git de maneira prática 
