@@ -16,4 +16,6 @@ aprendendo git de maneira prática
 
 uma nova linha agora com o github ligado com o git local da minha máquina
 
-teste de alteração de arquivo - anotações de xpto 
+teste de alteração de arquivo - anotações de xpto
+
+agora quero ver no github 
