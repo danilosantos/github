@@ -14,4 +14,6 @@ uma nova mensagem para vermos a diferença
 aprendendo git de maneira prática
 
 
-uma nova linha agora com o github ligado com o git local da minha máquina 
+uma nova linha agora com o github ligado com o git local da minha máquina
+
+teste de alteração de arquivo - anotações de xpto 
