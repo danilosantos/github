@@ -27,3 +27,5 @@ um novo teste consolidando o conhecimento 2
 apenas teste de registro 3
 
 apenas teste de registro 4 - uma nova publicação  
+
+uma nova linha de comando - apenas teste de registro de informações pelo Visual Studio Code no Deepin
